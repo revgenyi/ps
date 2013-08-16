@@ -1,0 +1,48 @@
+/*Gradients*/
+.bgBody {
+	background: #fcfcfc; /* Old browsers */
+	background: -moz-radial-gradient(center, ellipse cover,  #fcfcfc 0%, #fcfcfc 8%, #dedede 100%); /* FF3.6+ */
+	background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#fcfcfc), color-stop(8%,#fcfcfc), color-stop(100%,#dedede)); /* Chrome,Safari4+ */
+	background: -webkit-radial-gradient(center, ellipse cover,  #fcfcfc 0%,#fcfcfc 8%,#dedede 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-radial-gradient(center, ellipse cover,  #fcfcfc 0%,#fcfcfc 8%,#dedede 100%); /* Opera 12+ */
+	background: -ms-radial-gradient(center, ellipse cover,  #fcfcfc 0%,#fcfcfc 8%,#dedede 100%); /* IE10+ */
+	background: radial-gradient(ellipse at center,  #fcfcfc 0%,#fcfcfc 8%,#dedede 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#dedede',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+/*Colors*/
+.bgWhite {
+	background-color: #FFF;
+}
+.bgBlack {
+	background-color: #000;
+}
+.bgGray {
+	background-color: #6e6e6e;	
+}
+.bgDark {
+	background-color: #181818;
+}
+.bgLightDark {
+	background-color: #1f1f1f;
+}
+.bgRed {
+	background-color: #e03229;
+}
+.txWhite {
+	color: #FFF;
+}
+.txBlack {
+	color: #000;
+}
+.txGray {
+	color:#6e6e6e;
+}
+.txDark {
+	color:#181818;
+}
+.txLightDark {
+	color:#1f1f1f;
+}
+.txRed {
+	color: #e03229;
+}

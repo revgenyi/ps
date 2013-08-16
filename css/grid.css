@@ -1,0 +1,160 @@
+/*Grid*/
+.span1 {
+	width: 60px;
+	float: left;
+}
+.span2 {
+	width: 120px;
+	float: left;
+}
+.span3 {
+	width: 180px;
+	float: left;
+}
+.span4 {
+	width: 240px;
+	float: left;
+}
+.span5 {
+	width: 300px;
+	float: left;
+}
+.span6 {
+	width: 360px;
+	float: left;
+}
+.span7 {
+	width: 420px;
+	float: left;
+}
+.span8 {
+	width: 480px;
+	float: left;
+}
+.span9 {
+	width: 540px;
+	float: left;
+}
+.span10 {
+	width: 600px;
+	float: left;
+}
+.span11 {
+	width: 660px;
+	float: left;
+}
+.span12 {
+	width: 720px;
+	float: left;
+}
+.span13 {
+	width: 780px;
+	float: left;
+}
+.span14 {
+	width: 840px;
+	float: left;
+}
+.span15 {
+	width: 900px;
+	float: left;
+}
+.span16 {
+	width: 960px;
+}
+.offset1 {
+	margin-left: 60px; 
+}
+.offset2 {
+	margin-left: 120px; 
+}
+.offset3 {
+	margin-left: 180px; 
+}
+.offset4 {
+	margin-left: 240px; 
+}
+.offset5 {
+	margin-left: 300px;
+}
+.offset6 {
+	margin-left: 360px;
+}
+.offset7 {
+	margin-left: 420px;
+}
+.offset8 {
+	margin-left: 480px;
+}
+.offset9 {
+	margin-left: 540px;
+}
+.offset10 {
+	margin-left: 600px;
+}
+.offset11 {
+	margin-left: 660px;
+}
+.offset12 {
+	margin-left: 720px;
+}
+.offset13 {
+	margin-left: 780px;
+}
+.offset14 {
+	margin-left: 840px;
+}
+.offset15 {
+	margin-left: 900px;
+}
+/*Positions*/
+.center {
+	margin: 0 auto;
+}
+.absolute {
+	position: absolute;
+}
+/*Margins*/
+.mt10 {
+	margin-top: 10px;
+}
+.mt15 {
+	margin-top: 15px;
+}
+.mt25 {
+	margin-top: 25px;
+}
+.mt20 {
+	margin-top: 20px;
+}
+.mt30 {
+	margin-top: 30px;
+}
+.mt40 {
+	margin-top: 40px;
+}
+.mt50 {
+	margin-top: 50px;
+}
+.mt60 {
+	margin-top: 60px;
+}
+/*Lines*/
+.hLine {
+	height: 1px;
+	background-color: #c8c8c8;
+}
+.vLine {
+	width: 1px;
+	background-color: #c8c8c8;
+}
+/*other*/
+.fln {
+	clear: both;
+}
+.pullLeft {
+	float: left;
+}
+.pullRight {
+	float: right;
+}
